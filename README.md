@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kagaya · notes on code and life，蓝色雪夜中的动漫横幅" width="100%">
+  <img src="assets/banner.png" alt="Kagaya · notes on code and life, an anime banner in a snowy blue night" width="100%">
 </p>
 
 <p align="center">
-  写一点代码，记一些日常。<br>
-  在平凡的生活里，收集闪闪发光的瞬间。
+  Writing a little code, recording a little life.<br>
+  Collecting moments that sparkle in the everyday.
 </p>
 
 <br>
 
 ### About Me
 
-你好，我是 **Kagaya**。
+Hello, I'm **Kagaya**.
 
 ### Featured
 
-- **[Kagayaの小站](https://kagayakihikari.cn/)** — 记录、表达，以及生活里的点滴。
-- **[Thumbnail-based Blur](https://github.com/KagayakiHikari/thumbnail-based-blur)** — 探索基于缩略图的模糊效果。
-- **[Open Blog Framework](https://github.com/KagayakiHikari/open-blog-framework)** — 一个基于 Node.js 和 SQLite 的轻量博客框架。
+- **[Kagaya's Blog](https://kagayakihikari.cn/)** — Notes, reflections, and little moments from everyday life.
+- **[Thumbnail-based Blur](https://github.com/KagayakiHikari/thumbnail-based-blur)** — Exploring blur effects using thumbnails.
+- **[Open Blog Framework](https://github.com/KagayakiHikari/open-blog-framework)** — A lightweight blog framework built with Node.js and SQLite.
 
 <br>
 
